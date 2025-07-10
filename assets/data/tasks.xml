@@ -1,0 +1,4 @@
+<tasks>
+    <task id="meditate" reward="10">Meditate for 5 minutes</task>
+    <task id="walk" reward="15">Go on a short walk</task>
+</tasks>
