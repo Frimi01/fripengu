@@ -2,7 +2,7 @@
 
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
 
-This project was generated with a template including simple application launchers and an `ApplicationAdapter` extension that draws libGDX logo.
+Any assets or code from depenancies goes under their seperate licensees. Implementation and everything else falls within the MIT license.
 
 ## Platforms
 
